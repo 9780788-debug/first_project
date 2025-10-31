@@ -1,0 +1,3 @@
+/home/popa/Documents/Proj/build/CMakeFiles/MyfirstGame.dir
+/home/popa/Documents/Proj/build/CMakeFiles/edit_cache.dir
+/home/popa/Documents/Proj/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/popa/Documents/Proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/MyfirstGame.dir/MyFirstGame.cpp.o -c /home/popa/Documents/Proj/MyFirstGame.cpp",
+  "file": "/home/popa/Documents/Proj/MyFirstGame.cpp",
+  "output": "CMakeFiles/MyfirstGame.dir/MyFirstGame.cpp.o"
+}
+]

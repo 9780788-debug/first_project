@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/MyfirstGame.dir/link.d CMakeFiles/MyfirstGame.dir/MyFirstGame.cpp.o -o MyfirstGame  /usr/lib/libsfml-graphics.so.3.0.2 /usr/lib/libsfml-window.so.3.0.2 /usr/lib/libsfml-system.so.3.0.2 -lstdc++
